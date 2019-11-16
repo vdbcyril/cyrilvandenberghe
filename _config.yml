@@ -4,7 +4,7 @@
 #
 
 # Information for compile
-exclude: ["node_modules", "gulpfile.js", "package.json", "Gemfile", "README.md"]
+exclude: ["Gemfile"]
 
 #
 # If your website is placed in a separate folder on your server please modify
@@ -35,10 +35,10 @@ jekyll-archives:
   enabled:
     - categories
     - tags
-  layout: 'archive'
+  layout: "archive"
   permalinks:
-    category: '/category/:name/'
-    tag: '/tag/:name/'
+    category: "/category/:name/"
+    tag: "/tag/:name/"
 
 #######################################################
 #######################################################
@@ -83,12 +83,12 @@ banner-link: https://themeforest.net/collections/6069390-sera
 ####################################
 ######  Global Social Links   ######
 ####################################
-youtube: '#'
-pinterest: '#'
-facebook: '#'
-twitter: '#'
-google-plus: '#'
-vimeo: '#'
+youtube: "#"
+pinterest: "#"
+facebook: "#"
+twitter: "#"
+google-plus: "#"
+vimeo: "#"
 
 #########################
 ######   Widgets   ######
@@ -103,11 +103,11 @@ about-widget:
   author-tagline: Blog Author
   author-info: Cum sociis que penatibus et magnis dis parturient montes lorem, nascetur ridiculus mus. Donec quam felis, ultricies.
   author-social-links:
-    youtube: '#'
-    pinterest: '#'
-    facebook: '#'
-    twitter: '#'
-    google-plus: '#'
+    youtube: "#"
+    pinterest: "#"
+    facebook: "#"
+    twitter: "#"
+    google-plus: "#"
 
 # Google Map JS api
 # This is my api for this template
@@ -138,7 +138,6 @@ mailchimp:
 about-title: Welcome to Sera
 about-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
 
-
 #####################################
 #############  Features  ############
 #####################################
@@ -149,22 +148,20 @@ features-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. A
 # Features
 #
 features:
+  # Feature
+  - title: Clean & Unique Design
+    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+    icon: pe-7s-vector
 
-# Feature
-- title: Clean & Unique Design
-  description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
-  icon: pe-7s-vector
+  # Feature
+  - title: Professional Support
+    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+    icon: pe-7s-help2
 
-# Feature
-- title: Professional Support
-  description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
-  icon: pe-7s-help2
-
-# Feature
-- title: Pixel Perfect
-  description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
-  icon: pe-7s-airplay
-
+  # Feature
+  - title: Pixel Perfect
+    description: Maecenas sed laoreet urna. Praesent eget tristique tortor. Suspendisse consequat sed turpis in mattis.
+    icon: pe-7s-airplay
 
 #####################################
 ############  Portfolio  ############
@@ -175,63 +172,62 @@ portfolio-description: Maecenas tempus nec mi et placerat. Duis at odio vitae ex
 #
 # Portfolio Grid
 #
-portfolio-categories: [Websites, Logo, Graphic Design, Development, Video, Photography]
+portfolio-categories:
+  [Websites, Logo, Graphic Design, Development, Video, Photography]
 portfolio:
+  # Portfolio Item
+  - title: S<span class="thin">era</span> Style
+    categories: [Websites, Graphic Design]
+    image: img-01.jpg
+    url: "#"
 
-# Portfolio Item
-- title: S<span class="thin">era</span> Style
-  categories: [Websites, Graphic Design]
-  image: img-01.jpg
-  url: '#'
+  # Portfolio Item
+  - title: S<span class="thin">era</span> Style
+    categories: [Graphic Design, Logo, Websites]
+    image: img-02.jpg
+    url: "#"
 
-# Portfolio Item
-- title: S<span class="thin">era</span> Style
-  categories: [Graphic Design, Logo, Websites]
-  image: img-02.jpg
-  url: '#'
+  # Portfolio Item
+  - title: S<span class="thin">era</span> Style
+    categories: [Graphic Design, Logo, Photography]
+    image: img-03.jpg
+    url: "#"
 
-# Portfolio Item
-- title: S<span class="thin">era</span> Style
-  categories: [Graphic Design, Logo, Photography]
-  image: img-03.jpg
-  url: '#'
+  # Portfolio Item
+  - title: S<span class="thin">era</span> Style
+    categories: [Websites, Video, Photography]
+    image: img-04.jpg
+    url: "#"
 
-# Portfolio Item
-- title: S<span class="thin">era</span> Style
-  categories: [Websites, Video, Photography]
-  image: img-04.jpg
-  url: '#'
+  # Portfolio Item
+  - title: S<span class="thin">era</span> Style
+    categories: [Development, Logo]
+    image: img-05.jpg
+    url: "#"
 
-# Portfolio Item
-- title: S<span class="thin">era</span> Style
-  categories: [Development, Logo]
-  image: img-05.jpg
-  url: '#'
+  # Portfolio Item
+  - title: S<span class="thin">era</span> Style
+    categories: [Development, Video]
+    image: img-06.jpg
+    url: "#"
 
-# Portfolio Item
-- title: S<span class="thin">era</span> Style
-  categories: [Development, Video]
-  image: img-06.jpg
-  url: '#'
+  # Portfolio Item
+  - title: S<span class="thin">era</span> Style
+    categories: [Websites, Graphic Design]
+    image: img-07.jpg
+    url: "#"
 
-# Portfolio Item
-- title: S<span class="thin">era</span> Style
-  categories: [Websites, Graphic Design]
-  image: img-07.jpg
-  url: '#'
+  # Portfolio Item
+  - title: S<span class="thin">era</span> Style
+    categories: [Websites, Video]
+    image: img-08.jpg
+    url: "#"
 
-# Portfolio Item
-- title: S<span class="thin">era</span> Style
-  categories: [Websites , Video]
-  image: img-08.jpg
-  url: '#'
-
-# Portfolio Item
-- title: S<span class="thin">era</span> Style
-  categories: [Photography, Logo]
-  image: img-09.jpg
-  url: '#'
-
+  # Portfolio Item
+  - title: S<span class="thin">era</span> Style
+    categories: [Photography, Logo]
+    image: img-09.jpg
+    url: "#"
 
 #####################################
 ##########  Core Features  ##########
@@ -243,52 +239,49 @@ core-description: Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet 
 # Core Features Left
 #
 core-features-left:
+  # Feature
+  - name: Creative
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+    icon: pe-7s-light
 
-# Feature
-- name: Creative
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-light
+  # Feature
+  - name: Minimalism
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+    icon: pe-7s-drop
 
-# Feature
-- name: Minimalism
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-drop
+  # Feature
+  - name: Clean Coding
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+    icon: pe-7s-coffee
 
-# Feature
-- name: Clean Coding
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-coffee
-
-# Feature
-- name: Friendly
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-smile
+  # Feature
+  - name: Friendly
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+    icon: pe-7s-smile
 
 #
 # Core Features Right
 #
 core-features-right:
+  # Feature
+  - name: Branding
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+    icon: pe-7s-wine
 
-# Feature
-- name: Branding
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-wine
+  # Feature
+  - name: Web Design
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+    icon: pe-7s-monitor
 
-# Feature
-- name: Web Design
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-monitor
+  # Feature
+  - name: Graphic Design
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+    icon: pe-7s-crop
 
-# Feature
-- name: Graphic Design
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-crop
-
-# Feature
-- name: Photography
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
-  icon: pe-7s-camera
-
+  # Feature
+  - name: Photography
+    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+    icon: pe-7s-camera
 
 #####################################
 ########### Testimonials ############
@@ -300,46 +293,43 @@ testimonials-description: Aenean at tincidunt sem. Interdum et malesuada fames a
 # Testimonials
 #
 testimonials:
+  # Client
+  - name: Johnatan Doe
+    url: http://themeforest.net
+    url-text: ThemeForest.net
+    avatar: avatar-01.jpg
+    cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
+    logo-img: themeforest.png
 
-# Client
-- name: Johnatan Doe
-  url: http://themeforest.net
-  url-text: ThemeForest.net
-  avatar: avatar-01.jpg
-  cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
-  logo-img: themeforest.png
+  # Client
+  - name: Adam Smith
+    url: http://codecanyon.net
+    url-text: CodeCanyon.net
+    avatar: avatar-02.jpg
+    cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
+    logo-img: codecanyon.png
 
-# Client
-- name: Adam Smith
-  url: http://codecanyon.net
-  url-text: CodeCanyon.net
-  avatar: avatar-02.jpg
-  cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
-  logo-img: codecanyon.png
+  # Client
+  - name: Irene Warner
+    url: http://videohive.net
+    url-text: VideoHive.net
+    avatar: avatar-03.jpg
+    cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
+    logo-img: videohive.png
 
-# Client
-- name: Irene Warner
-  url: http://videohive.net
-  url-text: VideoHive.net
-  avatar: avatar-03.jpg
-  cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
-  logo-img: videohive.png
-
-# Client
-- name: Richard Ryan
-  url: http://audiojungle.net
-  url-text: AudioJungle.net
-  avatar: avatar-04.jpg
-  cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
-  logo-img: audiojungle.png
-
+  # Client
+  - name: Richard Ryan
+    url: http://audiojungle.net
+    url-text: AudioJungle.net
+    avatar: avatar-04.jpg
+    cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
+    logo-img: audiojungle.png
 
 #####################################
 ############# Our Blog ##############
 #####################################
 blog-title: Our Blog
 blog-description: Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
-
 
 #####################################
 ############### Team ################
@@ -351,59 +341,57 @@ team-description: Nulla a tellus at turpis gravida congue non interdum et malesu
 # Team Members
 #
 team:
+  # Team Member
+  - name: Jack Skilton
+    tagline: Graphic Designer
+    avatar: avatar-01.jpg
 
-# Team Member
-- name: Jack Skilton
-  tagline: Graphic Designer
-  avatar: avatar-01.jpg
+    # Social Links
+    youtube: "#"
+    pinterest: "#"
+    facebook: "#"
+    twitter: "#"
+    google-plus: "#"
+    vimeo: "#"
 
-  # Social Links
-  youtube: '#'
-  pinterest: '#'
-  facebook: '#'
-  twitter: '#'
-  google-plus: '#'
-  vimeo: '#'
+  # Team Member
+  - name: James Young
+    tagline: Developer
+    avatar: avatar-02.jpg
 
-# Team Member
-- name: James Young
-  tagline: Developer
-  avatar: avatar-02.jpg
+    # Social Links
+    youtube: "#"
+    pinterest: "#"
+    facebook: "#"
+    twitter: "#"
+    google-plus: "#"
+    vimeo: "#"
 
-  # Social Links
-  youtube: '#'
-  pinterest: '#'
-  facebook: '#'
-  twitter: '#'
-  google-plus: '#'
-  vimeo: '#'
+  # Team Member
+  - name: Johnatan Doe
+    tagline: Hacker
+    avatar: avatar-04.jpg
 
-# Team Member
-- name: Johnatan Doe
-  tagline: Hacker
-  avatar: avatar-04.jpg
+    # Social Links
+    youtube: "#"
+    pinterest: "#"
+    facebook: "#"
+    twitter: "#"
+    google-plus: "#"
+    vimeo: "#"
 
-  # Social Links
-  youtube: '#'
-  pinterest: '#'
-  facebook: '#'
-  twitter: '#'
-  google-plus: '#'
-  vimeo: '#'
+  # Team Member
+  - name: Ecaterina Doe
+    tagline: Support Expert
+    avatar: avatar-03.jpg
 
-# Team Member
-- name: Ecaterina Doe
-  tagline: Support Expert
-  avatar: avatar-03.jpg
-
-  # Social Links
-  youtube: '#'
-  pinterest: '#'
-  facebook: '#'
-  twitter: '#'
-  google-plus: '#'
-  vimeo: '#'
-
+    # Social Links
+    youtube: "#"
+    pinterest: "#"
+    facebook: "#"
+    twitter: "#"
+    google-plus: "#"
+    vimeo: "#"
 
 #####################################
 ########## Pricing Tables ###########
@@ -419,7 +407,7 @@ plan-personal-offer-1-title: 01 PSD Pack
 plan-personal-offer-1-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
 plan-personal-offer-2-title: 100 Support Tickets
 plan-personal-offer-2-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
-plan-personal-url: '#'
+plan-personal-url: "#"
 
 #
 # Plan Business
@@ -429,7 +417,7 @@ plan-business-offer-1-title: 05 PSD Pack
 plan-business-offer-1-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
 plan-business-offer-2-title: 1000 Support Tickets
 plan-business-offer-2-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
-plan-business-url: '#'
+plan-business-url: "#"
 
 #
 # Plan Ultimate
@@ -439,15 +427,13 @@ plan-ultimate-offer-1-title: 10 PSD Pack
 plan-ultimate-offer-1-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
 plan-ultimate-offer-2-title: Support Unlimited
 plan-ultimate-offer-2-info: Mauris gravida fringilla est. Proin sodales sed erat et cursus. Mauris quis posuere enim.
-plan-ultimate-url: '#'
-
+plan-ultimate-url: "#"
 
 #####################################
 ############   Contact   ############
 #####################################
 contact-title: Contact Us
 contact-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
-
 
 #####################################
 #############   Footer   ############
