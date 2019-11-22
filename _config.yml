@@ -83,12 +83,6 @@ banner-link: https://themeforest.net/collections/6069390-sera
 ####################################
 ######  Global Social Links   ######
 ####################################
-youtube: "#"
-pinterest: "#"
-facebook: "#"
-twitter: "#"
-google-plus: "#"
-vimeo: "#"
 linkedin: "#"
 github: "#"
 
@@ -440,7 +434,5 @@ contact-description: Nulla a tellus at turpis gravida congue non interdum et mal
 #####################################
 #############   Footer   ############
 #####################################
-footer-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
-footer-copyright-text: Gleesik&trade;
-footer-copyright-url: http://gleesik.ro/
-footer-copyright-year: 2016
+footer-copyright-text: Cyril Vandenberghe
+footer-copyright-year: 2019

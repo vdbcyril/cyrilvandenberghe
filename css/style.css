@@ -4986,15 +4986,7 @@ footer.site-footer {
 }
 
 footer.site-footer .footer-info {
-  padding: 80px 0;
-}
-
-footer.site-footer .footer-info .footer-logo {
-  position: relative;
-}
-
-footer.site-footer .footer-info .footer-logo img {
-  margin: 0 auto;
+  padding: 50px 0;
 }
 
 footer.site-footer .footer-info .footer-info-text {
