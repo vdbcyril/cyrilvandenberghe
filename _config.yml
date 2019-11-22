@@ -105,14 +105,6 @@ about-widget:
     twitter: "#"
     google-plus: "#"
 
-# Google Map JS api
-# This is my api for this template
-key-api: AIzaSyDbnxVZQannH0GF4gtnnBFPiP9ofm2WqGs
-map-text: Sera Google Map
-map-text-location: Bucharest, Romania
-map-lat: 44.4267674
-map-lng: 26.102538399999958
-
 # Enter your Mailchimp User ID and Campaign ID
 # @TODO: Add in a link for where to find these
 mailchimp:
