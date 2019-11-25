@@ -65,45 +65,25 @@
  *         3.4.7 Testimonials
  *         3.4.8 Blog
  *         3.4.9 Team
- *         3.4.10 Prices
- *         3.4.11 Contact
- *         3.4.12 Footer
+ *         3.4.10 Contact
+ *         3.4.11 Footer
  *    3.5 Sidebar
  * -----------------------------------------------------------------------------
  **/
 
 // Modules
-@import "modules/_reset",
-        "modules/_config",
-        "modules/_color-skin",
-        "modules/_class-tools",
-        "modules/_bootstrap-grid",
-        "modules/_responsive-embed",
-        "modules/_animations",
-        "modules/_owl-carousel",
-        "modules/_font-7-stroke",
-        "modules/_flaticon-social-icons";
+@import "modules/_reset", "modules/_config", "modules/_color-skin",
+  "modules/_class-tools", "modules/_bootstrap-grid", "modules/_responsive-embed",
+  "modules/_animations", "modules/_owl-carousel", "modules/_font-7-stroke",
+  "modules/_flaticon-social-icons";
 
 // Components
-@import "components/_forms",
-        "components/_social-icons",
-        "components/_tags-box",
-        "components/_buttons";
+@import "components/_forms", "components/_social-icons", "components/_tags-box",
+  "components/_buttons";
 
 // Layout
-@import "layout/_global",
-        "layout/_header",
-        "layout/_header-responsive",
-        "layout/_sections",
-        "layout/_sidebar",
-        "layout/_offer",
-        "layout/_about",
-        "layout/_features",
-        "layout/_portfolio",
-        "layout/_parallax-features",
-        "layout/_testimonials",
-        "layout/_blog",
-        "layout/_team",
-        "layout/_prices",
-        "layout/_contact",
-        "layout/_footer";
+@import "layout/_global", "layout/_header", "layout/_header-responsive",
+  "layout/_sections", "layout/_sidebar", "layout/_offer", "layout/_about",
+  "layout/_features", "layout/_portfolio", "layout/_parallax-features",
+  "layout/_testimonials", "layout/_blog", "layout/_team", "layout/_contact",
+  "layout/_footer";
