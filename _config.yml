@@ -72,9 +72,9 @@ header-secondary-button:
 #
 # This is your email adress, contact from send here all emails from contact section
 # IMPORTANT: you can modify contact form from this static template, but now works contact form works with a free external server
-# To configure this contact form, first please send a fictive email afeter you enter below your email and verify that :)
+# To configure this contact form, first please send a fictive email after you enter below your email and verify that :)
 #
-email: your_email@example.com
+email: cyril.vandenberghe.pro@gmail.com
 
 # Offer Banner Link
 # Default link is a link to all Sera OnePage products
@@ -420,8 +420,7 @@ plan-ultimate-url: "#"
 #####################################
 ############   Contact   ############
 #####################################
-contact-title: Contact Us
-contact-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
+contact-title: Contact Me
 
 #####################################
 #############   Footer   ############
