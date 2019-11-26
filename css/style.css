@@ -54,10 +54,9 @@
  *            3.4.1.4 Buttons CTA (Call To Actions)
  *         3.4.2 Offer Banner
  *         3.4.3 About
- *         3.4.4 Features
- *         3.4.5 Portfolio
- *             3.4.5.1 Portfolio Menu
- *             3.4.5.2 Portfolio Grid
+ *         3.4.4 Portfolio
+ *             3.4.4.1 Portfolio Menu
+ *             3.4.4.2 Portfolio Grid
  *         3.4.6 Blog
  *         3.4.7 Contact
  *         3.4.8 Footer
@@ -4319,98 +4318,6 @@ section.offer-section h2 {
 
 section.offer-section .button-cta {
   margin-bottom: 0;
-}
-
-/**
- *
- *  About Section Style
- *
- *  @package gleesik_layout
- *
- **/
-/**
- *
- *  Features Section Style
- *
- *  @package gleesik_layout
- *
- **/
-section.features-section .features {
-  margin-top: 80px;
-}
-
-@media (max-width: 992px) {
-  section.features-section .feature {
-    margin-bottom: 80px;
-  }
-  section.features-section .feature:last-child {
-    margin-bottom: 0;
-  }
-}
-
-section.features-section .feature .icon .circle {
-  width: -webkit-calc(50% - 15px);
-  width: calc(50% - 15px);
-  padding-bottom: -webkit-calc(50% - 23px);
-  padding-bottom: calc(50% - 23px);
-  margin: 0 auto;
-  margin-bottom: 40px;
-  border: 4px solid #21c2f8;
-  -webkit-transition: all 300ms ease-in-out;
-  -o-transition: all 300ms ease-in-out;
-  transition: all 300ms ease-in-out;
-}
-
-section.features-section .feature .icon .circle .circle {
-  width: 50%;
-  padding-bottom: 50%;
-  border: 0;
-  background: #bdc3c7;
-}
-
-section.features-section .feature .icon .circle .circle i {
-  font-size: 3rem;
-  color: #2c3e50;
-  -webkit-transition: all 300ms ease-in-out;
-  -o-transition: all 300ms ease-in-out;
-  transition: all 300ms ease-in-out;
-}
-
-section.features-section .feature .icon .circle .circle i:before {
-  padding-left: 3%;
-}
-
-section.features-section .feature .content h3 {
-  color: #2c3e50;
-  text-transform: uppercase;
-  margin-bottom: 1.25rem;
-}
-
-section.features-section .feature .content h3,
-section.features-section .feature .content p {
-  -webkit-transition: color 300ms ease-in-out;
-  -o-transition: color 300ms ease-in-out;
-  transition: color 300ms ease-in-out;
-}
-
-section.features-section .feature:hover .icon .circle {
-  border-color: #bdc3c7;
-}
-
-section.features-section .feature:hover .icon .circle .circle {
-  background: #21c2f8;
-}
-
-section.features-section .feature:hover .icon .circle .circle i {
-  color: #fff;
-}
-
-section.features-section .feature:hover .content h3 {
-  color: #21c2f8;
-}
-
-section.features-section .feature:hover .content p {
-  color: #2c3e50;
 }
 
 /**

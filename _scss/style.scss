@@ -57,10 +57,9 @@
  *            3.4.1.4 Buttons CTA (Call To Actions)
  *         3.4.2 Offer Banner
  *         3.4.3 About
- *         3.4.4 Features
- *         3.4.5 Portfolio
- *             3.4.5.1 Portfolio Menu
- *             3.4.5.2 Portfolio Grid
+ *         3.4.4 Portfolio
+ *             3.4.4.1 Portfolio Menu
+ *             3.4.4.2 Portfolio Grid
  *         3.4.6 Blog
  *         3.4.7 Contact
  *         3.4.8 Footer
@@ -81,5 +80,4 @@
 // Layout
 @import "layout/_global", "layout/_header", "layout/_header-responsive",
   "layout/_sections", "layout/_sidebar", "layout/_offer", "layout/_about",
-  "layout/_features", "layout/_portfolio", "layout/_blog", "layout/_contact",
-  "layout/_footer";
+  "layout/_portfolio", "layout/_blog", "layout/_contact", "layout/_footer";
