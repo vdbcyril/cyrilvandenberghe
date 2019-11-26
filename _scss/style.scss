@@ -61,10 +61,9 @@
  *         3.4.5 Portfolio
  *             3.4.5.1 Portfolio Menu
  *             3.4.5.2 Portfolio Grid
- *         3.4.6 Parallax Features
- *         3.4.7 Blog
- *         3.4.8 Contact
- *         3.4.9 Footer
+ *         3.4.6 Blog
+ *         3.4.7 Contact
+ *         3.4.8 Footer
  *    3.5 Sidebar
  * -----------------------------------------------------------------------------
  **/
@@ -82,5 +81,5 @@
 // Layout
 @import "layout/_global", "layout/_header", "layout/_header-responsive",
   "layout/_sections", "layout/_sidebar", "layout/_offer", "layout/_about",
-  "layout/_features", "layout/_portfolio", "layout/_parallax-features",
-  "layout/_blog", "layout/_contact", "layout/_footer";
+  "layout/_features", "layout/_portfolio", "layout/_blog", "layout/_contact",
+  "layout/_footer";
