@@ -98,12 +98,6 @@ about-widget:
   author-name: John Doe
   author-tagline: Blog Author
   author-info: Cum sociis que penatibus et magnis dis parturient montes lorem, nascetur ridiculus mus. Donec quam felis, ultricies.
-  author-social-links:
-    youtube: "#"
-    pinterest: "#"
-    facebook: "#"
-    twitter: "#"
-    google-plus: "#"
 
 # Enter your Mailchimp User ID and Campaign ID
 # @TODO: Add in a link for where to find these

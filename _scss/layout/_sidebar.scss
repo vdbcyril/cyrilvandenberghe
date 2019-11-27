@@ -7,7 +7,6 @@
  **/
 
 aside.site-sidebar {
-
   // Widget
   .widget {
     margin-bottom: 60px;
@@ -24,26 +23,13 @@ aside.site-sidebar {
         text-transform: uppercase;
       }
     }
-
   }
 
   // About Widget
   .about-widget {
-
     .widget-content {
-
       .social-icons {
         margin-top: 10px;
-
-        .icons {
-          a {
-            .fi {
-              display: inline-block;
-              font-size: 1.48rem;
-              margin-bottom: 10px;
-            }
-          }
-        }
       }
 
       .info {
@@ -67,21 +53,17 @@ aside.site-sidebar {
           margin-top: 20px;
           margin-bottom: 20px;
         }
-
       }
 
       .author-text {
         font-size: 0.8rem;
       }
-
     }
-
   }
 
   // Categories Widget
   .categories-widget {
     .widget-content {
-
       ul.categories-box {
         li {
           a {
@@ -97,7 +79,8 @@ aside.site-sidebar {
               border-radius: 3px;
               background: $sidebar-header;
               font-size: 0.6875rem;
-              transition: color, background $transition-links $transition-links-type;
+              transition: color,
+                background $transition-links $transition-links-type;
             }
 
             &:hover {
@@ -108,7 +91,6 @@ aside.site-sidebar {
                 background: $primary;
               }
             }
-
           }
 
           &:last-child {
@@ -116,26 +98,21 @@ aside.site-sidebar {
               border-bottom: 0;
             }
           }
-
         }
       }
-
     }
   }
 
   // Tags Cloud
   .tags-cloud-widget {
     .widget-content {
-
-    // Silence is Golden
-
+      // Silence is Golden
     }
   }
 
   // Newsletter Widget
   .newsletter-widget {
     .widget-content {
-
       form.newsletter-email-signup {
         .field-group {
           margin-bottom: 20px;
@@ -156,8 +133,6 @@ aside.site-sidebar {
           margin-top: 10px;
         }
       }
-
     }
   }
-
 }
