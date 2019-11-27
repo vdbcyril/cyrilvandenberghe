@@ -18,7 +18,7 @@ exclude: ["Gemfile"]
 baseurl:
 
 # the base hostname & protocol for your site
-url: "http://localhost:3000"
+url: "https://localhost:3000"
 
 ####################################
 ######   Optional Features    ######
