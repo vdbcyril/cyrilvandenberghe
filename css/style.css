@@ -2193,14 +2193,6 @@ header.site-header .header-banner .heading-content .heading-title hr.small {
   margin-bottom: 40px;
 }
 
-header.site-header .header-banner .heading-content .buttons-header {
-  margin-top: 40px;
-}
-
-header.site-header .header-banner .heading-content .buttons-header .button-cta {
-  width: 100%;
-}
-
 header.site-header .arrow-down-section {
   position: absolute;
   width: 100%;
@@ -2786,9 +2778,6 @@ header.site-header .arrow-down-section .arrow-down svg {
   }
   header.site-header .header-banner .heading-title h2 {
     font-size: 1.3rem;
-  }
-  header.site-header .header-banner .buttons-header .button-cta {
-    font-size: 1rem;
   }
 }
 

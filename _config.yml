@@ -55,20 +55,6 @@ header-title: Create the <strong>Impossible</strong>
 # Header Tagline
 headter-tagline: We Always
 
-####################################
-######   CTA Header Buttons   ######
-####################################
-
-# Focus Buttons
-header-focus-button:
-  title: Download Now
-  url: https://themeforest.net/collections/6069390-sera
-
-# Secondary Buttons
-header-secondary-button:
-  title: Discover More
-  url: http://themeforest.net/user/gleesik
-
 #
 # This is your email adress, contact from send here all emails from contact section
 # IMPORTANT: you can modify contact form from this static template, but now works contact form works with a free external server
