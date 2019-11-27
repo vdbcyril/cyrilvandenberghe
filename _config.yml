@@ -76,10 +76,6 @@ header-secondary-button:
 #
 email: cyril.vandenberghe.pro@gmail.com
 
-# Offer Banner Link
-# Default link is a link to all Sera OnePage products
-banner-link: https://themeforest.net/collections/6069390-sera
-
 ####################################
 ######  Global Social Links   ######
 ####################################
@@ -98,12 +94,6 @@ about-widget:
   author-name: John Doe
   author-tagline: Blog Author
   author-info: Cum sociis que penatibus et magnis dis parturient montes lorem, nascetur ridiculus mus. Donec quam felis, ultricies.
-
-# Enter your Mailchimp User ID and Campaign ID
-# @TODO: Add in a link for where to find these
-mailchimp:
-  user-id: REPLACEME
-  list-id: REPLACEME
 
 ####
 #

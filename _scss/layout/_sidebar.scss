@@ -109,30 +109,4 @@ aside.site-sidebar {
       // Silence is Golden
     }
   }
-
-  // Newsletter Widget
-  .newsletter-widget {
-    .widget-content {
-      form.newsletter-email-signup {
-        .field-group {
-          margin-bottom: 20px;
-
-          input {
-            border-width: 2px;
-            padding: 20px;
-          }
-        }
-
-        .button-subscribe {
-          padding: 20px;
-          text-transform: uppercase;
-          letter-spacing: 0.08rem;
-        }
-
-        p {
-          margin-top: 10px;
-        }
-      }
-    }
-  }
 }

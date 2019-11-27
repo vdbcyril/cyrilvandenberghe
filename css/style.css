@@ -3028,42 +3028,6 @@ aside.site-sidebar
   border-bottom: 0;
 }
 
-aside.site-sidebar
-  .newsletter-widget
-  .widget-content
-  form.newsletter-email-signup
-  .field-group {
-  margin-bottom: 20px;
-}
-
-aside.site-sidebar
-  .newsletter-widget
-  .widget-content
-  form.newsletter-email-signup
-  .field-group
-  input {
-  border-width: 2px;
-  padding: 20px;
-}
-
-aside.site-sidebar
-  .newsletter-widget
-  .widget-content
-  form.newsletter-email-signup
-  .button-subscribe {
-  padding: 20px;
-  text-transform: uppercase;
-  letter-spacing: 0.08rem;
-}
-
-aside.site-sidebar
-  .newsletter-widget
-  .widget-content
-  form.newsletter-email-signup
-  p {
-  margin-top: 10px;
-}
-
 /**
  *
  *  Offer Style
