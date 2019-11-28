@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "How to tell a story"
+title: "Coming soon..."
 tagline: Single Page
-date: 2016-05-26 13:23
-categories: [Storyline]
-tags: [Storyline, How To, Tips]
-image: img-03.jpg
+date: 2019-11-28 15:22
+categories: [Tutorial]
+tags: [How To, Tips]
+image: under-construction.jpg
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum condimentum justo, rhoncus ullamcorper orci dapibus eget. Aliquam id efficitur lacus. Donec ac mattis ante. Nam vehicula turpis augue. Aliquam erat volutpat.
