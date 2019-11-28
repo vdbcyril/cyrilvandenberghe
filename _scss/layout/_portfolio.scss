@@ -1,13 +1,4 @@
-/**
- *
- *  Portfolio Section Style
- *
- *  @package gleesik_layout
- *
- **/
-
 section.portfolio-section {
-
   // Filter Menu
   .filter-menu-wrapper {
     margin: 50px 0;
@@ -42,7 +33,7 @@ section.portfolio-section {
             color: $primary;
 
             &:before {
-              content: '';
+              content: "";
               position: absolute;
               bottom: 0;
               left: 0;
@@ -54,7 +45,6 @@ section.portfolio-section {
         }
       }
     }
-
   }
 
   // Portfolio Grid
@@ -78,7 +68,6 @@ section.portfolio-section {
           width: 100%;
           display: block;
         }
-
       }
 
       // Item Hover
@@ -121,7 +110,8 @@ section.portfolio-section {
         transform: translateY(100%);
         transition: all $transition-links $transition-links-type;
 
-        h3, h4 {
+        h3,
+        h4 {
           text-transform: uppercase;
         }
 
@@ -148,14 +138,11 @@ section.portfolio-section {
                 &:hover {
                   background: transparentize($white, 0.6);
                 }
-
               }
             }
           }
         }
-
       }
-
     }
 
     // Overlay Lightbox
@@ -177,7 +164,5 @@ section.portfolio-section {
         transform: translate(-50%, -50%);
       }
     }
-
   }
-
 }

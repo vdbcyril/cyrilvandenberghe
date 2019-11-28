@@ -1,13 +1,6 @@
-/**
- *
- *  Buttons Style
- *
- *  @package gleesik_components
- *
- **/
-
 // Buttons
-.button, button {
+.button,
+button {
   display: inline-block;
   width: auto;
   max-width: 100%;
@@ -30,7 +23,6 @@
     border-color: lighten($primary, 20%);
     background-color: lighten($primary, 20%);
   }
-
 }
 
 // CTA Buttons
@@ -62,17 +54,14 @@
     border-color: lighten($primary, 20%);
     background-color: lighten($primary, 20%);
   }
-
 }
 
 // Buttons Block
 button,
 .button,
 .button-cta {
-
   &.button-block {
     display: block;
     width: 100%;
   }
-
 }

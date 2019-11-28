@@ -1,9 +1,5 @@
 /**
- *
  *  CSS Reset
- *
- *  @package gleesik_module
- *
  **/
 html,
 body,
@@ -137,75 +133,7 @@ table {
 }
 
 /**
- *
- *  Theme Style Configuration
- *
- *  @package gleesik_module
- *
- *
- *
- *
- *  ##### Typography
- *  $font-family: 'Lato'; // Google Font
- *  $global-font-size: 16px; // Default Global Font Size
- *
- *  ##### Animations Timing
- *  $transition-links: 300ms; // Default Global Animation Timing
- *  $animation-arrow-header-time: 2.5s;
- *
- *  ##### Animations Types
- *  $transition-links-type: ease-in-out; // Default Global Transition Type
- *  $animation-arrow-header-type: ease-in-out;
- *
- *  ##### Mobile Menu Settings
- *  $cubic: cubic-bezier(0.4, 0.01, 0.165, 0.99);
- *
- *
- *
- *
- **/
-/**
- *
- *  Color Skin
- *
- *  @package gleesik_module
- *
- *
- *
- *
- *  ##### Theme Colors Primary
- *  $blue: #21c2f8;
- *  $green: #2ecc71;
- *
- *  ##### Global Pallete
- *  $white: #fff;
- *  $black: #000;
- *  $black-transparent: rgba($black, 0.9);
- *  $light-blue: #f4f8f9;
- *
- *  ##### Primary & Secondary
- *  $primary: $blue; // This is primary theme color
- *  $secondary: #2c3e50;
- *
- *  ##### Global Text Color
- *  $global-text: #848484;
- *
- *  ##### Gray Pallete
- *  $light-gray: #e3e9ed;
- *  $simple-gray: #bdc3c7;
- *  $normal-gray: #464646;
- *  $dark-gray: #202020;
- *
- *
- *
- *
- **/
-/**
- *
  *  Global Classes Style
- *
- *  @package gleesik_module
- *
  **/
 .text-center {
   text-align: center;
@@ -311,11 +239,7 @@ table {
 }
 
 /**
-*
 *  Bootstrap Grid System
-*
-*  @package gleesik_module
-*
 **/
 @-ms-viewport {
   width: device-width;
@@ -1212,11 +1136,7 @@ table {
 }
 
 /**
- *
  *  Responsive Embed
- *
- *  @package gleesik_module
- *
  **/
 .embed-responsive {
   position: relative;
@@ -1249,11 +1169,7 @@ table {
 }
 
 /**
- *
  *  Animations Style
- *
- *  @package gleesik_modules
- *
  **/
 @-webkit-keyframes sera-pulse {
   0% {
@@ -1493,11 +1409,7 @@ table {
 }
 
 /**
- *
  *  Forms & Inputs Style
- *
- *  @package gleesik_components
- *
  **/
 form {
   display: block;
@@ -1615,11 +1527,7 @@ button:active:-moz-placeholder {
 }
 
 /**
- *
  *  Social Icons Style
- *
- *  @package gleesik_components
- *
  **/
 .social-icons {
   display: inline-block;
@@ -1644,11 +1552,7 @@ button:active:-moz-placeholder {
 }
 
 /**
- *
  *  Tags Box Style
- *
- *  @package gleesik_components
- *
  **/
 ul.tag-cloud-box li {
   display: inline-block;
@@ -1670,11 +1574,7 @@ ul.tag-cloud-box li a:hover {
 }
 
 /**
- *
  *  Buttons Style
- *
- *  @package gleesik_components
- *
  **/
 .button,
 button {
@@ -1743,11 +1643,7 @@ button.button-block,
 }
 
 /**
- *
  *  Global Style
- *
- *  @package gleesik_layout
- *
  **/
 body {
   font-family: "Lato", Arial, sans-serif;
@@ -2041,11 +1937,7 @@ blockquote:before {
 }
 
 /**
- *
  *  Header Style
- *
- *  @package gleesik_layout
- *
  **/
 header.site-header {
   position: relative;
@@ -2232,12 +2124,6 @@ header.site-header .arrow-down-section .arrow-down:after {
   background-color: rgba(255, 255, 255, 0.2);
 }
 
-/* header.site-header .arrow-down-section .arrow-down:hover i {
-  -webkit-transform: scale(1.3);
-  -ms-transform: scale(1.3);
-  transform: scale(1.3);
-} */
-
 header.site-header .arrow-down-section .arrow-down:hover svg {
   -webkit-transform: scale(1.3);
   -ms-transform: scale(1.3);
@@ -2248,20 +2134,8 @@ header.site-header .arrow-down-section .arrow-down:hover:after {
   background-color: rgba(255, 255, 255, 0.3);
 }
 
-/* header.site-header .arrow-down-section .arrow-down i {
-  width: 100%;
-  height: 100%;
-  text-align: center;
-  -webkit-transition: -webkit-transform 300ms ease-in-out;
-  transition: -webkit-transform 300ms ease-in-out;
-  -o-transition: transform 300ms ease-in-out;
-  transition: transform 300ms ease-in-out;
-  transition: transform 300ms ease-in-out, -webkit-transform 300ms ease-in-out;
-} */
-
 header.site-header .arrow-down-section .arrow-down svg {
   width: 100%;
-  /* height: 100%; */
   text-align: center;
   -webkit-transition: -webkit-transform 300ms ease-in-out;
   transition: -webkit-transform 300ms ease-in-out;
@@ -2270,17 +2144,8 @@ header.site-header .arrow-down-section .arrow-down svg {
   transition: transform 300ms ease-in-out, -webkit-transform 300ms ease-in-out;
 }
 
-/* header.site-header .arrow-down-section .arrow-down i:before {
-  width: 100%;
-  height: 100%;
-} */
-
 /**
- *
  *  Responsive Header Style + Navigation Mobile Menu
- *
- *  @package gleesik_layout
- *
  **/
 .toggle-menu {
   display: none;
@@ -2777,11 +2642,7 @@ header.site-header .arrow-down-section .arrow-down svg {
 }
 
 /**
- *
  *  Sections Style
- *
- *  @package gleesik_layout
- *
  **/
 section.site-section {
   padding: 100px 0;
@@ -2832,11 +2693,7 @@ section.site-section.next-section-indicator:after {
 }
 
 /**
- *
  *  Sidebar Aside Style
- *
- *  @package gleesik_layout
- *
  **/
 aside.site-sidebar .widget {
   margin-bottom: 60px;
@@ -2941,11 +2798,7 @@ aside.site-sidebar
 }
 
 /**
- *
  *  Offer Style
- *
- *  @package gleesik_layout
- *
  **/
 section.offer-section {
   padding: 40px 0;
@@ -2973,11 +2826,7 @@ section.offer-section .button-cta {
 }
 
 /**
- *
  *  Portfolio Section Style
- *
- *  @package gleesik_layout
- *
  **/
 section.portfolio-section .filter-menu-wrapper {
   margin: 50px 0;
@@ -3174,11 +3023,7 @@ section.portfolio-section .portfolio-grid .overlay img {
 }
 
 /**
- *
  *  Blog Section Style
- *
- *  @package gleesik_layout
- *
  **/
 section.blog-section.page-layout {
   padding-top: 30px;
@@ -3497,11 +3342,7 @@ section.blog-section .view-posts .button-cta {
 }
 
 /**
- *
  *  Contact Section Style
- *
- *  @package gleesik_layout
- *
  **/
 section.contact-section {
   color: #f4f8f9;
@@ -3646,11 +3487,7 @@ section.contact-section
 }
 
 /**
- *
  *  Footer Style
- *
- *  @package gleesik_layout
- *
  **/
 footer.site-footer {
   position: relative;

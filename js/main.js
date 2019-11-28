@@ -1,11 +1,3 @@
-/**
- *
- *  Main JavaScript
- *
- *  @package gleesik_scripts
- *
- **/
-
 // IIFE - Immediately Invoked Function Expression
 (function($, window, document) {
   // The $ is now locally scoped

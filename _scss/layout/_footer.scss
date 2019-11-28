@@ -1,11 +1,3 @@
-/**
- *
- *  Footer Style
- *
- *  @package gleesik_layout
- *
- **/
-
 footer.site-footer {
   position: relative;
   color: $footer-color;
@@ -31,7 +23,7 @@ footer.site-footer {
 
     // Social Media Icons
     .social-icons {
-      a  {
+      a {
         color: $global-text;
 
         &:hover,
@@ -52,5 +44,4 @@ footer.site-footer {
       width: 100%;
     }
   }
-
 }

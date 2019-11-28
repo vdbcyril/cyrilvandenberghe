@@ -1,17 +1,8 @@
-/**
- *
- *  Social Icons Style
- *
- *  @package gleesik_components
- *
- **/
-
 .social-icons {
   display: inline-block;
   font-size: 1.35rem;
 
   ul.icons {
-
     &.global-text-color-icons {
       li {
         a {
@@ -33,5 +24,4 @@
       }
     }
   }
-
 }

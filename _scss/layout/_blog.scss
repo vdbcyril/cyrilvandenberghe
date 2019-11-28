@@ -1,13 +1,4 @@
-/**
- *
- *  Blog Section Style
- *
- *  @package gleesik_layout
- *
- **/
-
 section.blog-section {
-
   // Blog Page
   &.page-layout {
     padding-top: 30px;
@@ -17,7 +8,6 @@ section.blog-section {
     }
 
     article.blog-article {
-
       // Article Boxes
       .article-boxes {
         float: left;
@@ -78,7 +68,6 @@ section.blog-section {
             padding-top: 0.2rem;
           }
         }
-
       }
     }
   }
@@ -155,7 +144,6 @@ section.blog-section {
             text-transform: capitalize;
           }
         }
-
       }
 
       // Article Content
@@ -193,7 +181,6 @@ section.blog-section {
             padding: 10px 0;
             background: $primary;
           }
-
         }
 
         // Article Text
@@ -220,11 +207,8 @@ section.blog-section {
             margin: 0 0 0 100px;
           }
         }
-
       }
-
     }
-
   }
 
   // View All Posts
@@ -238,5 +222,4 @@ section.blog-section {
       float: inherit !important;
     }
   }
-
 }
