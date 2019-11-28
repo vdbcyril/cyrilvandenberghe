@@ -33,13 +33,13 @@ jekyll-archives:
 #######################################################
 
 # This is your site title
-title: Sera - OnePage Multi-Purpose Theme
+title: Cyril Vandenberghe - Portfolio
 # Website language
 lang: en-US
 # Header Title
-header-title: Create the <strong>Impossible</strong>
+header-title: I am a Data Scientist
 # Header Tagline
-headter-tagline: We Always
+headter-tagline: Hello, my name is Cyril
 
 email: cyril.vandenberghe.pro@gmail.com
 
@@ -58,21 +58,21 @@ github: "https://github.com/vdbcyril"
 #
 about-widget:
   author-avatar: avatar.jpg
-  author-name: John Doe
-  author-tagline: Blog Author
-  author-info: Cum sociis que penatibus et magnis dis parturient montes lorem, nascetur ridiculus mus. Donec quam felis, ultricies.
+  author-name: Cyril Vandenberghe
+  author-tagline: Data Scientist
+  author-info: I like to write posts about data science
 
 #####################################
 #############   About   #############
 #####################################
-about-title: Welcome to Sera
-about-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
+about-title: Welcome to my website
+about-description: You can read my blog and find some tutorials and notes about data science. You can also have a look at my projects.
 
 #####################################
 ############  Portfolio  ############
 #####################################
 portfolio-title: Portfolio
-portfolio-description: Maecenas tempus nec mi et placerat. Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis.
+portfolio-description: My personal projects involving data analysis and Machine Learning.
 
 #
 # Portfolio Grid
@@ -98,10 +98,10 @@ portfolio:
     url: "#"
 
 #####################################
-############# Our Blog ##############
+############# Blog ##############
 #####################################
-blog-title: Our Blog
-blog-description: Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl. Pellentesque scelerisque eu neque et tincidunt.
+blog-title: My Blog
+blog-description: I write tutorials and notes about data science, enjoy !
 
 #####################################
 ############   Contact   ############
