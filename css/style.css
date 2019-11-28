@@ -2095,11 +2095,6 @@ header.site-header .site-navigation-bar {
   z-index: 2;
 }
 
-header.site-header .site-navigation-bar .logo img {
-  display: block;
-  float: left;
-}
-
 header.site-header .site-navigation-bar .navigation-bar nav.nav-menu {
   position: relative;
   display: block;
