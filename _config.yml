@@ -80,19 +80,19 @@ portfolio-description: My personal projects involving data analysis and Machine 
 portfolio-categories: [R, Analysis, Machine Learning, Python]
 portfolio:
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
+  - title: Coming soon
     categories: [Analysis, R language]
     image: img-01.jpg
     url: "#"
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
+  - title: Coming soon
     categories: [R language, Machine Learning, Analysis]
     image: img-02.jpg
     url: "#"
 
   # Portfolio Item
-  - title: S<span class="thin">era</span> Style
+  - title: Coming soon
     categories: [R language, Machine Learning, Python]
     image: img-03.jpg
     url: "#"
