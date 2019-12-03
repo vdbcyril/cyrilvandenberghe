@@ -16,11 +16,6 @@ In tempus tristique sapien, at semper orci semper a. Vivamus dapibus tortor ligu
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed iaculis, tellus eu accumsan euismod, nunc est tempus diam, in vulputate velit ligula nec sem. Integer eu posuere orci. In malesuada, quam nec pulvinar lacinia, metus tellus interdum lorem, nec lacinia felis sem et metus. Nunc eu nulla velit. Nulla facilisi. Donec eu euismod libero, egestas bibendum mi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in erat eu elit sodales maximus vitae ac sapien. Vestibulum tincidunt nunc a lacus iaculis, at ultricies nibh gravida. Vestibulum laoreet vestibulum metus in elementum. Morbi imperdiet congue magna, sit amet aliquam urna dictum in. Aenean pellentesque ultrices enim, ut rhoncus orci ultrices quis. Nam ac imperdiet augue. Interdum et malesuada fames ac ante ipsum primis in faucibus.
 
-<blockquote cite="http://gleesik.ro">
-  Simplicity is the <br> ultimate <strong>Sophistication</strong>
-  <small>Leonardo da Vinci</small>
-</blockquote>
-
 Integer non elementum orci. Praesent vulputate id libero at congue. Ut eget urna mi. Morbi et malesuada erat. Etiam malesuada, arcu nec interdum sagittis, ipsum massa rhoncus sapien, sed ultricies dolor augue in dolor. Fusce eget massa nec dui pretium pulvinar. Sed ante purus, sagittis vel pretium et, malesuada quis augue. Pellentesque sodales quis nisi non rutrum. Sed sed turpis maximus, aliquet dui at, lacinia urna. Praesent fermentum convallis odio id volutpat. Donec pulvinar vestibulum felis vulputate venenatis. Nunc sed posuere lectus, sit amet pulvinar nisl.
 
 Etiam euismod eget lorem hendrerit commodo. Morbi efficitur sed ipsum id fringilla. Nunc in finibus odio, ac bibendum turpis. Aliquam porta eget enim et imperdiet. Nunc luctus ac nunc nec tristique. Mauris sollicitudin quis lorem in congue. Mauris venenatis euismod turpis, in pellentesque ligula fringilla et. Suspendisse dictum vitae dolor et tincidunt. Nullam viverra rutrum ex ut commodo.
