@@ -110,13 +110,8 @@ section.portfolio-section {
         transform: translateY(100%);
         transition: all $transition-links $transition-links-type;
 
-        h3,
         h4 {
           text-transform: uppercase;
-        }
-
-        h3 {
-          font-size: 2rem;
           margin-bottom: 10px;
         }
 

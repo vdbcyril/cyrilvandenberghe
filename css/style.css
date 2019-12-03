@@ -2949,13 +2949,8 @@ section.portfolio-section .portfolio-grid .item .item-content {
   transition: all 300ms ease-in-out;
 }
 
-section.portfolio-section .portfolio-grid .item .item-content h3,
 section.portfolio-section .portfolio-grid .item .item-content h4 {
   text-transform: uppercase;
-}
-
-section.portfolio-section .portfolio-grid .item .item-content h3 {
-  font-size: 2rem;
   margin-bottom: 10px;
 }
 

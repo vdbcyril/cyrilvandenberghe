@@ -45,12 +45,11 @@
         <figure class="img-wrap">
           <img
             src="{{ site.baseurl }}/images/portfolio/{{ item.image }}"
-            alt="Portfolio Item Image"
+            alt="{{ item.alt }}"
           />
         </figure>
         <div class="item-content">
-          <h3>{{ item.title }}</h3>
-          <h4>{{ item.categories | first }}</h4>
+          <h4>{{ item.title }}</h4>
           <div class="links">
             <ul>
               <li>
