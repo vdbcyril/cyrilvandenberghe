@@ -80,22 +80,29 @@ portfolio-description: My personal projects involving data analysis and Machine 
 portfolio-categories: [R, Analysis, Machine Learning, Python]
 portfolio:
   # Portfolio Item
-  - title: Coming soon
-    categories: [Analysis, R language]
-    image: img-01.jpg
-    url: "#"
-
+  - title: Hopper Airports (Dashboard)
+    categories: [R, Analysis]
+    image: airport.jpg
+    alt: "Photo by Ken Yam on Unsplash"
+    url: "https://vdbcyril.shinyapps.io/hopper-dashboard/"
   # Portfolio Item
-  - title: Coming soon
-    categories: [R language, Machine Learning, Analysis]
-    image: img-02.jpg
-    url: "#"
-
+  - title: Hopper Airports (Markdown)
+    categories: [R, Analysis]
+    image: passenger.jpg
+    alt: "Photo by Max Delsid on Unsplash"
+    url: "https://cyrilvandenberghe.com/hopper.html"
   # Portfolio Item
-  - title: Coming soon
-    categories: [R language, Machine Learning, Python]
-    image: img-03.jpg
-    url: "#"
+  - title: Criminal Acts in Montreal
+    categories: [R, Analysis]
+    image: handcuff.jpg
+    alt: "Photo by Bill Oxford on Unsplash"
+    url: "https://vdbcyril.shinyapps.io/incidents-montreal-en"
+  # Portfolio Item
+  - title: "Datacamp Projects"
+    categories: [R, Analysis, Machine Learning, Python]
+    image: datacamp.png
+    alt: "Datacamp Logo"
+    url: "https://github.com/vdbcyril/datacamp-projects"
 
 #####################################
 ############# Blog ##############
