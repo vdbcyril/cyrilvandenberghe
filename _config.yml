@@ -77,7 +77,7 @@ portfolio-description: My personal projects involving data analysis and Machine 
 #
 # Portfolio Grid
 #
-portfolio-categories: [R, Analysis, Machine Learning, Python]
+portfolio-categories: [R, Python, Analysis, Machine Learning, Deep Learning]
 portfolio:
   # Portfolio Item
   - title: Hopper Airports (Dashboard)
@@ -99,7 +99,7 @@ portfolio:
     url: "https://vdbcyril.shinyapps.io/incidents-montreal-en"
   # Portfolio Item
   - title: "Datacamp Projects"
-    categories: [R, Analysis, Machine Learning, Python]
+    categories: [R, Analysis, Machine Learning, Python, Deep Learning]
     image: datacamp.png
     alt: "Datacamp Logo"
     url: "https://github.com/vdbcyril/datacamp-projects"
