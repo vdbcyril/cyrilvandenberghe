@@ -1,0 +1,1 @@
+[![pages-build-deployment](https://github.com/vdbcyril/vdbcyril.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/vdbcyril/vdbcyril.github.io/actions/workflows/pages/pages-build-deployment)
